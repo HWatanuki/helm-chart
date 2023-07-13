@@ -266,7 +266,7 @@ entries:
     version: 0.1.0
   hpcc:
   - apiVersion: v2
-    appVersion: 8.8.6
+    appVersion: 8.8.6-rc2
     created: "2022-08-25T18:02:15.3544102-04:00"
     description: A Helm chart for launching a HPCC cluster using Kubernetes
     digest: d9c803d1e88f75d652ef20d0808cce6cdab578e2f00f0dae8781671e63c24615
@@ -275,7 +275,7 @@ entries:
     type: application
     urls:
     - https://hwatanuki.github.io/helm-chart/hpcc-8.8.6-rc2.tgz
-    version: 8.8.6
+    version: 8.8.6-rc2
   - apiVersion: v2
     appVersion: 8.8.6-rc1
     created: "2022-08-25T18:02:15.3524581-04:00"
